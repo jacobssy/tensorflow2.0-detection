@@ -1,5 +1,5 @@
 # tensorflow2.0-detection
-A repo to reproduce the detection paper (加上中文注解)
+A repo to reproduce some detection papers
 
 # 要实现的一些基本内容
 1.经典的detection模型（faster rcnn，yolo，ssd ，retinanet系列）在VOC，coco上的复现
